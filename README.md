@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JaviiDon
-- 👀 I’m interested in programming, mainly web development and design
-- 🌱 I’m currently learning PHP and Javascript
+- 👋 Hi, I’m Romell aka @JaviiDon
+- 👀 I’m interested in full stack programming
+- 🌱 I’m currently learning PHP and Python
 - 💞️ I’m looking to collaborate on various websites
 - 📫 How to reach me: Just shoot an email at romellhamilton14@gmail.com
 
