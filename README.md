@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Romell aka @JaviiDon
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning ASP.NET
 - 💞️ I’m looking to collaborate on various websites
 - 📫 How to reach me: Just shoot an email at romellhamilton14@gmail.com
 
